@@ -1,0 +1,24 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "EDN",
+			"previous_names": ["EDN"],
+			"details": "https://github.com/kernelp4nic/sublime-edn",
+			"description": "EDN format for Clojure Syntax Highlight",
+			"author": "Sebastián Moreno",
+			"labels": ["edn", "clojure", "syntax"],
+			"homepage": "https://github.com/kernelp4nic/sublime-edn",
+			"last_modified": "2014-08-5 12:00:00",
+			"platforms": {
+				"osx": [
+					{
+						"version": "0.1",
+						"sublime_text": "*",
+						"url": "https://github.com/kernelp4nic/sublime-open-in-thunar/archive/0.1.zip"
+					}
+				]
+			}
+		}
+	]
+}
