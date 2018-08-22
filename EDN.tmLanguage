@@ -71,7 +71,7 @@
 			</dict>
 
 			<key>match</key>
-			<string>(:\w+)(\.(\w+))?(/(\w+))?</string>
+			<string>(:[\w-?]+)(\.([\w-?]+))?(/([\w-?]+))?</string>
 
 			<key>name</key>
 			<string>meta.keyword.edn</string>
